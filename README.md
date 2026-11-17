@@ -1,55 +1,22 @@
-# Hey! Nice to see you.
+# Merlin Seela
+**Engineer on the Edge of Software and Hardware**
 
-I'm Merlin, a technical computer scientist specializing in Digital Twins and Industry 4.0 technologies. Part of my related work is published via [TWIOO](https://github.com/TheWorldIsOneObject/). On the side I am building interactive Stream Overlays using Godot for my Twitch Channel.
+I learned programming the old-fashioned way, with time, passion and a good bucket of self-inflicted headaches. Stackoverflow rescued me more often than LLMs did. Digital Twins became my personal excitement when I was first introduced to them at Fraunhofer IPK in Berlin. Working on Asset Administration Shells as early as AAS V2 and BaSyx V1 was a great but also painful experience. Today I focus on clear governance of source code, left-shifting principles and robust and scalable architectures by design. I favor Domain-Driven Design and clear separation of concerns within the codebase while maintaining time-to-value focus through rapid prototyping and practical compromises whenever necessary. Technical debt is not something we can avoid but reduce.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlinseela/?locale=en_US)
-[![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/iamamerlin)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/ADt6Skn7Rm)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://iamamerlin.itch.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IAmAMerlin)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/IAmAMerlin)
+## 🏗️ Current Mission:
+I am currently designing and developing [saftch](https://github.com/merlinseela/i40-saftch), a Digital Twin powered testing framework for hardware designs utilizing stateless daemon services on the targeted hardware.
 
-## Techstack?
-### Languages
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
-[![GDScript](https://img.shields.io/badge/GDScript-5abbff?style=for-the-badge)](https://docs.godotengine.org/en/latest/tutorials/scripting/gdscript/index.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/current-work)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
+- **Architecture:** N:(N):N multiplicity (Developer/Producer <-> Intelligent FastAPI-Proxy wrapping (AAS/BaSyx) <-> Target Hardware Fleet).
+- **Network Optimization:** Edge-driven payload reduction via lightweight Digital Twin Models, explicit-compounding identifiers, batching of edge-logs, and more.
+- **Deployment:** Idempotent and fully automated one-touch provisioning for edge devices. (as far as it can be pushed!)
 
-### Libraries, Frameworks, Technologies
-[![BaSyx](https://img.shields.io/badge/BaSyx-0386b7?style=for-the-badge)](https://github.com/eclipse-basyx)
-[![AAS](https://img.shields.io/badge/AAS-0421c3?style=for-the-badge)](https://industrialdigitaltwin.org/en/content-hub/aasspecifications)
-[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![ScikitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+## ⚙️ Tech Stack & Domains
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Headless Linux](https://img.shields.io/badge/Headless_Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![AAS](https://img.shields.io/badge/AAS-0421C3?style=flat-square)](https://industrialdigitaltwin.org/en/content-hub/aasspecifications)
+[![BaSyx](https://img.shields.io/badge/BaSyx-0386B7?style=flat-square)](https://basyx.org/)
 
-### IDEs & Engines
-[![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Godot](https://img.shields.io/badge/godot-engine?style=for-the-badge&logo=godot-engine&logoColor=white&color=%235abbff)](https://godotengine.org/)
-[![Matlab](https://img.shields.io/badge/MATLAB-da5c10?style=for-the-badge)](https://de.mathworks.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
-
-## Projects
-### Public Code
-|                                                                                               Mycelium Roads                                                                                                |                                                                                          Draw a Path                                                                                           | ESP32 MQTT PMS5003                                                                                                                                                                                      |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/merlinseela/mycelium-roads-14th-piratesoftware-gamejam"><img src="https://img.itch.zone/aW1nLzE0NzkyNzkwLnBuZw==/315x250%23c/LEAV66.png" style="width:140px;height:100px;"></a> | <a href="https://github.com/merlinseela/draw-a-path"><img src="https://raw.githubusercontent.com/merlinseela/draw-a-path/main/documentation/ingame.png" style="width:140px;height:100px;"></a> | <a href="https://github.com/merlinseela/esp32_mqtt_pms5003"><img src="https://raw.githubusercontent.com/merlinseela/esp32_mqtt_pms5003/main/MQTT_PMS.drawio.png" style="width:140px;height:100px;"></a> |
-|                                                                                        State: Public / Discontinued                                                                                         |                                                                                  State: Public / Discontinued                                                                                  | State: Public / Finished |
-
-
-### Private Code / Public Executables
-| Slime Boss Simulator  |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://iamamerlin.itch.io/slime-boss-simulator"><img src="https://img.itch.zone/aW1nLzE1MjY2NzQ4LnBuZw==/315x250%23c/Vxop5D.png" style="width:140px;height:100px"></a> |
-| Prototype Available / Discontinued |
-
-## Organizations
-| <a href="https://github.com/TheWorldIsOneObject"><img src="https://avatars.githubusercontent.com/u/142671489?s=200&v=4" style="width:100px;height:100px;"></a> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+## 📬 Contact & Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlinseela/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/iamamerlin)
