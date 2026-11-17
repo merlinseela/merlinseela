@@ -1,7 +1,11 @@
-# Merlin Seela
-**Engineer on the Edge of Software and Hardware**
+# Merlin Seela [🦅](https://en.wikipedia.org/wiki/Merlin_(bird))
+### Engineer on the Edge of Software and Hardware
 
-I learned programming the old-fashioned way, with time, passion and a good bucket of self-inflicted headaches. Stackoverflow rescued me more often than LLMs did. Digital Twins became my personal excitement when I was first introduced to them at Fraunhofer IPK in Berlin. Working on Asset Administration Shells as early as AAS V2 and BaSyx V1 was a great but also painful experience. Today I focus on clear governance of source code, left-shifting principles and robust and scalable architectures by design. I favor Domain-Driven Design and clear separation of concerns within the codebase while maintaining time-to-value focus through rapid prototyping and practical compromises whenever necessary. Technical debt is not something we can avoid but reduce.
+I learned programming the old-fashioned way, with time, passion and a good bucket of self-inflicted headaches. Stackoverflow rescued me more often than LLMs did. Digital Twins became my personal excitement when I was first introduced to them at [Fraunhofer IPK](https://www.ipk.fraunhofer.de/) in Berlin. Working on Asset Administration Shells as early as `AAS V2` and `BaSyx V1` was a great but also painful experience. Today I focus on clear governance of source code, left-shifting principles and robust and scalable architectures by design. I favor Domain-Driven Design and clear separation of concerns within the codebase while maintaining time-to-value focus through rapid prototyping and practical compromises whenever necessary. 
+
+```markdown
+**Technical debt is not something we can avoid but reduce.**
+```
 
 ## 🏗️ Current Mission:
 I am currently designing and developing [saftch](https://github.com/merlinseela/i40-saftch), a Digital Twin powered testing framework for hardware designs utilizing stateless daemon services on the targeted hardware.
