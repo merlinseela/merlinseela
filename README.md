@@ -21,8 +21,8 @@ I am currently designing and developing [saftch](https://github.com/merlinseela/
 [![AAS](https://img.shields.io/badge/AAS-0421C3?style=flat-square)](https://industrialdigitaltwin.org/en/content-hub/aasspecifications)
 [![BaSyx](https://img.shields.io/badge/BaSyx-0386B7?style=flat-square)](https://basyx.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![FPGA / VHDL](https://img.shields.io/badge/FPGA%20%2F%20VHDL-2E7D32?style=flat-square)](https://en.wikipedia.org/wiki/VHDL)
-[![Zynq-7000 / ZedBoard](https://img.shields.io/badge/Zynq%20%2F%20ZedBoard-E01933?style=flat-square)](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-7000.html)
+[![VHDL](https://img.shields.io/badge/VHDL-2E7D32?style=flat-square)](https://en.wikipedia.org/wiki/VHDL)
+[![Zynq-7000](https://img.shields.io/badge/Zynq--7000-E01933?style=flat-square&logo=amd&logoColor=white)](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-7000.html)
 
 ## 📬 Contact & Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlinseela/)
